@@ -23,3 +23,8 @@ class ViewController: UIViewController {
 
 }
 
+
+struct Person{
+    
+    let name: String
+}
